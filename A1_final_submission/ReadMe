@@ -1,0 +1,14 @@
+Assignment Part1:
+gcc search.c
+./a.out 
+(Enter Filename (should be in current working directory) when prompted)
+
+
+Assignment Part2, i)
+gcc sort1.c -o sort1
+./sort1 <filename>
+
+
+Assignment Part2 ii)
+gcc xsort.c -o xsort
+./xsort <filename>
