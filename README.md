@@ -11,3 +11,10 @@ Brief descriptions are as follows:
 **sort1.c**: Sort on integers in file specified by command line args
 
 **xsort.c**: Sort on integers in file specified by command line args in xterm environment.
+
+## Assignment 2 Part 1
+See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/Assgn2.pdf).
+
+Brief description is as follows:
+
+**fcopy.c**: Aim is to understand interprocess communication (IPC) through copying the content of one file to other using 2 system pipes.
