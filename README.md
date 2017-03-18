@@ -18,3 +18,12 @@ See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/
 Brief description is as follows:
 
 **fcopy.c**: Aim is to understand interprocess communication (IPC) through copying the content of one file to other using 2 system pipes.
+
+## Assignment 2 Part 2
+See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/Assgn2.pdf).
+
+Brief descriptions are as follows:
+
+**shell.c**: A minishell with command set described in the assignment problem statement.
+
+**run.c**:  Runs the shell as a child process.
