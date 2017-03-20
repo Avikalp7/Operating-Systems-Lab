@@ -27,3 +27,10 @@ Brief descriptions are as follows:
 **shell.c**: A minishell with command set described in the assignment problem statement.
 
 **run.c**:  Runs the shell as a child process.
+
+## Assignment 3 Part 1
+See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/Assgn3.pdf)
+
+Brief description is as follows:
+
+**14CS10008_A3.c**: Solution for the m-producer n-producer problem.
