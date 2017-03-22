@@ -43,3 +43,10 @@ Brief description is as follows:
 **x.c**: A process X, when started, first loads all the records in shared memory from a file whose name is passed to it as a command line argument. It then goes to sleep, waking up periodically (say every 5 seconds) to check if any of the data have been modified. If yes, it writes the entire content of the shared memory back to the file. The process X runs forever. 
 
 **y.c**: Any number of other processes can query and update the data by reading/writing the shared memory.
+
+## Assignment 4 Part 1
+See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/Assgn4.pdf)
+
+Brief description is as follows:
+
+**shuffle.c**: Read a file name as command line argument which stores a nxn matrix, and use threads for computing k-circular horizontal and vertical shifts of the matrix.
