@@ -50,3 +50,15 @@ See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/
 Brief description is as follows:
 
 **shuffle.c**: Read a file name as command line argument which stores a nxn matrix, and use threads for computing k-circular horizontal and vertical shifts of the matrix.
+
+
+## Assignment 4 Part 2
+See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/Assgn4.pdf)
+
+Brief descriptions are as follows:
+
+**A.c**: The client process that sends periodic requests to book tickets.
+
+**B.c**: The server process that uses threads to cater to these requests, while preventing a high number of active threads.
+
+Process B must be ran first. Process A is killed whenever process B is killed. 
