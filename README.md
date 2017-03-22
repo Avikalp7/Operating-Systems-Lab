@@ -34,3 +34,12 @@ See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/
 Brief description is as follows:
 
 **14CS10008_A3.c**: Solution for the m-producer n-producer problem.
+
+## Assignment 3 Part 2
+See the complete problem statement [here](http://cse.iitkgp.ac.in/~agupta/OSLab/Assgn3.pdf)
+
+Brief description is as follows:
+
+**x.c**: A process X, when started, first loads all the records in shared memory from a file whose name is passed to it as a command line argument. It then goes to sleep, waking up periodically (say every 5 seconds) to check if any of the data have been modified. If yes, it writes the entire content of the shared memory back to the file. The process X runs forever. 
+
+**y.c**: Any number of other processes can query and update the data by reading/writing the shared memory.
